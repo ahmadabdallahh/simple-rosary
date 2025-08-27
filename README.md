@@ -10,6 +10,10 @@ A lightweight Digital Tasbih counter with phrase presets, progress, stats, long-
 - Haptic vibration on supported devices
 - Visual effects: button feedback, subtle animations, confetti on completion
 
+## Preview
+
+![alt](images/website-preview.png)
+
 ## Run
 - Open `index.html` in any modern browser. No build step required.
 
@@ -39,3 +43,4 @@ A lightweight Digital Tasbih counter with phrase presets, progress, stats, long-
 
 ## Notes
 - Long-press avoids double increments by delaying start and suppressing the post-press click
+
